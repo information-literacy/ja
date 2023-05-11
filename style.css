@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  background-image: url(/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.main {
+  display: flex;
+  display:block;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.loginbox {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #eee;
+  text-decoration: none
+}
+
+.form {
+  border: solid;
+  width: 350px;
+  height: 400px;
+  color: white;
+  backdrop-filter: blur(8px);
+  border-color: white;
+  border-width: 1.5px;
+  border-radius: 15px;
+  transition: 0.5s;
+}
+
+.form2 {
+  border: solid;
+  width: 350px;
+  height: 400px;
+  color: white;
+  backdrop-filter: blur(8px);
+  border-color: white;
+  border-width: 1.5px;
+  border-radius: 15px;
+}
+
+.Content {
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.text {
+  width: 100%;
+  background: none;
+  border-style: none;
+  border-bottom: 1px solid;
+  border-color: white;
+  height: 40px;
+  outline: none;
+  color: white;
+}
+
+.qtext {
+  color: white;
+  margin-top: 10px;
+}
+
+.qtext2 {
+  color: white;
+  margin: 0px;
+  margin-top: 8px;
+}
+
+.login-link {
+  color: white;
+}
+
+.loginbutton {
+  display: block;
+  position: absolute;
+  padding-top: 7.5px;
+  text-align: center;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+  width: 100%;
+  background-color: none;
+}
+
+.loginbuttonbox {
+  display: block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  border-radius: 25px;
+  height: 40px;
+  background-color: white;
+}
+
+.loginbuttonbox2 {
+  display: block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  border-radius: 25px;
+  height: 40px;
+  background-color: rgb(139, 139, 139);
+}
+
+div.ulflex {
+  display: flex;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.white_text {
+  color: white;
+}
+
+.white_text :hover {
+  color: white;
+}
