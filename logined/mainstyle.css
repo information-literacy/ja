@@ -102,6 +102,14 @@ body {
   transition: 0.5s;
 }
 
+.subtitle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(355px);
+}
+
 .login {
   justify-content: center;
   color: white;
