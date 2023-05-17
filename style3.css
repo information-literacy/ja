@@ -1,0 +1,87 @@
+.search-box {
+  width: 100%;
+  border: solid;
+  border-color: #33333300;
+  padding: 5px;
+  background-color: white;
+}
+
+.search-box:hover {
+  width: 100%;
+  border: solid;
+  border-color: #333;
+  padding: 5px;
+  background-color: white;
+}
+
+#myUL {
+  list-style: none;
+  width: 100%;
+  padding: 0px;
+}
+
+#myUL li {
+  background-color: #333;
+  text-align: left;
+  padding: 10px;
+}
+
+.myULtext {
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+  color: white;
+}
+
+.search-box2 {
+  width: 100%;
+  height: 60px;
+  border: solid;
+  border-color: #333333;
+  padding: 5px;
+  background-color: white;
+}
+
+.search-box {
+  width: 100%;
+  border: solid;
+  border-color: #33333300;
+  padding: 5px;
+  background-color: white;
+}
+
+.search-box2:hover {
+  width: 100%;
+  border: solid;
+  border-color: #333;
+  padding: 5px;
+  background-color: white;
+}
+
+#myUL2 {
+  list-style: none;
+  width: 100%;
+  padding: 0px;
+}
+
+#myUL2 li {
+  background-color: #333;
+  text-align: left;
+  padding: 10px;
+}
+
+.myULtext2 {
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+  color: white;
+}
+
+.search-box2 {
+  width: 100%;
+  height: 60px;
+  border: solid;
+  border-color: #333333;
+  padding: 5px;
+  background-color: white;
+}
